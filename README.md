@@ -20,7 +20,7 @@ Specialized in Cyber Security </h3>
 
 <p align="center">
   <em>
-    Hello, I am Anuk Perera a <b>third year</b> undergraduate from University Of Sri lanka Institute of  Information  Technology</b>, Sri-Lanka. <br>
+    Hello, I am Anuk Perera a <b>fourth year</b> undergraduate from University Of Sri lanka Institute of  Information  Technology</b>, Sri-Lanka. <br>
     <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Cyber Security learner</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with <b>Cyber Security</b> 
   </em> 
